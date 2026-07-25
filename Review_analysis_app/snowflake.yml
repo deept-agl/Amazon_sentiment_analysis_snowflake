@@ -7,3 +7,12 @@ entities:
       - pyproject.toml
       - streamlit_app.py
       - .streamlit/config.toml
+    identifier:
+      database: AMAZON_SENTIMENT_DB
+      schema: ANALYTICS
+      name: REVIEW_ANALYSIS_APP
+    title: Review_analysis_app
+    query_warehouse: AMAZON_SENTIMENT_WH
+    compute_pool: SYSTEM_COMPUTE_POOL_CPU
+    run_mode: SpcsOnly
+    execute_as: OWNER

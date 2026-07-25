@@ -29,7 +29,7 @@ LIMIT 20;
 
 -- After checking the first results, run more batches.
 -- CALL PROCESS_REVIEW_SENTIMENT(50);
--- CALL PROCESS_REVIEW_SENTIMENT(100);
+CALL PROCESS_REVIEW_SENTIMENT(100);
 
 -- Progress.
 SELECT
