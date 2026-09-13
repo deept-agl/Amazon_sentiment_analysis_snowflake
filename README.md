@@ -1,1 +1,0 @@
-# Amazon_sentiment_analysis_snowflake
