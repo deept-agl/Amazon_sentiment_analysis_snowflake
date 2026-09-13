@@ -2,6 +2,8 @@
 
 Build an end-to-end Amazon Review Sentiment Analysis solution in Snowflake using Marketplace data, Cortex AI `AI_SENTIMENT`, SQL analytics, and Streamlit.
 
+![CProject Intro](docs/project_image.png)
+
 ## Project Goal
 
 Customer reviews contain valuable product feedback, but manually reading thousands of reviews is slow and inconsistent.
